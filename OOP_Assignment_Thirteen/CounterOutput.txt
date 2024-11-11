@@ -1,0 +1,5 @@
+hello 3
+word 2
+java 2
+blue 2
+red 1
